@@ -7,13 +7,13 @@ about:
   head: 87a0688
   archived: false
   latestVersion: 1.28.0
-  collectedAt: 2026-09-04T19:48:15Z
+  collectedAt: 2026-09-04T20:49:38Z
 timeline:
   created: 2010-09-07
   lastCommit: 2023-12-17
   lastRelease: 2022-07-09
 popularity:
-  star: 2953
+  star: 2954
   watcher: 146
   fork: 690
   release: 27
@@ -80,6 +80,54 @@ total:
   openIssue: 43
   commit: 382
 ---
+path: /home/runner/.x-repo/github.com/achillean/shodan-python
+collectedAt: 2026-09-04T20:49:39Z
+loc:
+  Python:
+    code: 3335
+    comments: 526
+    blanks: 875
+    files: 27
+  ReStructuredText:
+    code: 422
+    comments: 0
+    blanks: 147
+    files: 8
+  Batch:
+    code: 212
+    comments: 1
+    blanks: 29
+    files: 1
+  Makefile:
+    code: 143
+    comments: 6
+    blanks: 28
+    files: 1
+  Ini:
+    code: 12
+    comments: 0
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 162
+    blanks: 43
+    files: 1
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 1
+total:
+  code: 4130
+  comments: 702
+  blanks: 1124
+  files: 41
 ---
 date: "2026-08-24"
 repo:
