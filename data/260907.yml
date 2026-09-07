@@ -5,7 +5,7 @@ about:
   head: 87a0688
   archived: false
   latestVersion: "1.28.0"
-  collectedAt: 2026-09-07T04:56:42Z
+  collectedAt: 2026-09-07T19:32:56Z
 timeline:
   created: 2010-09-07
   lastCommit: 2023-12-17
@@ -17,7 +17,7 @@ popularity:
   release: 27
   contributor: 28
   pullRequest: 91
-  issue: 152
+  issue: 153
 language:
   Python: 157712
 totalBytes: 157712
@@ -28,7 +28,7 @@ recent:
     mergedPR: 0
     openPR: 1
     closedIssue: 0
-    openIssue: 3
+    openIssue: 4
     commit: 0
   last60d:
     since: 2026-07-09
@@ -36,7 +36,7 @@ recent:
     mergedPR: 0
     openPR: 1
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 0
   last90d:
     since: 2026-06-09
@@ -44,7 +44,7 @@ recent:
     mergedPR: 0
     openPR: 1
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 0
   last180d:
     since: 2026-03-11
@@ -52,7 +52,7 @@ recent:
     mergedPR: 0
     openPR: 3
     closedIssue: 0
-    openIssue: 5
+    openIssue: 6
     commit: 0
   last360d:
     since: 2025-09-12
@@ -60,7 +60,7 @@ recent:
     mergedPR: 0
     openPR: 3
     closedIssue: 0
-    openIssue: 8
+    openIssue: 9
     commit: 0
   last720d:
     since: 2024-09-17
@@ -68,18 +68,18 @@ recent:
     mergedPR: 0
     openPR: 10
     closedIssue: 0
-    openIssue: 16
+    openIssue: 17
     commit: 0
 total:
   release: 27
   mergedPR: 53
   openPR: 20
   closedIssue: 109
-  openIssue: 43
+  openIssue: 44
   commit: 382
 ---
 path: /home/runner/.x-repo/github.com/achillean/shodan-python
-collectedAt: 2026-09-07T04:56:42Z
+collectedAt: 2026-09-07T19:32:58Z
 loc:
   Python:
     code: 3335
@@ -204,7 +204,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:56:43+00:00
+  collectedAt: 2026-09-07T19:32:58+00:00
   platform:
     darwin/arm64:
       name:  null
