@@ -22,11 +22,10 @@ x install shodan-python
 
 - **Latest**: `1.28.0` (2022-07-09)
 - **Last commit**: 2023-12-17
-- **Published**: 2022-07-09T22:54:19Z
 
 ## Popularity
 
-- **Stars**: 2,960 · **Forks**: 691 · **Open issues**: 153 · **Contributors**: 28
+- **Stars**: 2,961 · **Forks**: 691 · **Open issues**: 153 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for shodan-python lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `shodan-python` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/shodan-python.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/shodan-python.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:09:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:58:31Z._
