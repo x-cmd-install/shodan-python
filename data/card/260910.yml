@@ -7,7 +7,7 @@ about:
   latestVersion: "1.28.0"
   latestRelease: "1.28.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:09:32Z
+  collectedAt: 2026-09-10T16:58:22Z
 timeline:
   created: 2010-09-07
   lastCommit: 2023-12-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2022-07-09
   lastPrerelease: 
 popularity:
-  star: 2960
+  star: 2961
   watcher: 146
   fork: 691
   release: 27
@@ -83,7 +83,7 @@ total:
   commit: 382
 ---
 path: /home/runner/.x-repo/github.com/achillean/shodan-python
-collectedAt: 2026-09-10T05:09:33Z
+collectedAt: 2026-09-10T16:58:23Z
 loc:
   Python:
     code: 3335
