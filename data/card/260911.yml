@@ -207,4 +207,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
-{"id":71632187,"author":{"login":"achillean","id":373864,"node_id":"MDQ6VXNlcjM3Mzg2NA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAA2fj84ERQU7","tag_name":"1.28.0","target_commitish":"master","name":"Release 1.28.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2022-07-09T22:52:51Z","updated_at":"2022-07-09T22:54:19Z","published_at":"2022-07-09T22:54:19Z","assets":[],"body":"* Add the ability to whitelist a specific vulnerability in Shodan Monitor instead of whitelisting the while IP:port\r\n* Show scan ID when scanning without showing results (credit to @seadog007)\r\n* Handle bad gateway errors (credit to @yaron-cider)","mentions_count":2}
