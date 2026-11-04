@@ -30,9 +30,9 @@ Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,462 · **Forks**: 771 · **Open issues**: 152 · **Contributors**: 28
+- **Stars**: 3,465 · **Forks**: 774 · **Open issues**: 152 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-08-05 | 0 | 0 | 1 | 0 | 5 | 0 |
-| last180d | 2026-05-07 | 0 | 0 | 2 | 0 | 7 | 0 |
-| 360d | 2025-11-08 | 0 | 0 | 3 | 0 | 7 | 0 |
-| last720d | 2024-11-13 | 0 | 0 | 10 | 0 | 14 | 0 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-08-06 | 0 | 0 | 1 | 0 | 5 | 0 |
+| last180d | 2026-05-08 | 0 | 0 | 2 | 0 | 7 | 0 |
+| 360d | 2025-11-09 | 0 | 0 | 3 | 0 | 7 | 0 |
+| last720d | 2024-11-14 | 0 | 0 | 10 | 0 | 14 | 0 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for shodan-python lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:06:38Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:40:34Z._
