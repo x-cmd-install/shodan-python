@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,497 · **Forks**: 790 · **Open issues**: 153 · **Contributors**: 28
+- **Stars**: 3,498 · **Forks**: 790 · **Open issues**: 153 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 4 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 8 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 3 | 0 | 8 | 0 |
-| last720d | 2024-12-04 | 0 | 0 | 10 | 0 | 14 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 8 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 3 | 0 | 8 | 0 |
+| last720d | 2024-12-05 | 0 | 0 | 9 | 0 | 14 | 0 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for shodan-python lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:27:22Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:06:21Z._
